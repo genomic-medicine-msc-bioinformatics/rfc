@@ -9,12 +9,20 @@ Please add to the list.
  - bwa
  - Galaxy  
  - freebayes  
+ - trimmomatic  
+ - fastqc  
+ - Annovar  
+ - snpEff  
+ - samtools  
+ - picard  
+ - GATK  
+ - bcbio  
  - Illumina's Tool Suite (Isaac etc)
  
  
 ## Reference Data
 
  - b38 + decoy Genome fasta 
- - b37 + decoy  Genome fastq
- - Illumina's Reference Genome fata
+ - b37 + decoy Genome fastq
+ - Illumina's Reference Genome fasta
 
